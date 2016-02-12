@@ -4,9 +4,9 @@
  */
 
 /**
- * This JS util helps managing/customizing the print out mechanism og the log messages, the main reason of 
- * developing this util is to enable debugging Javascrip on mobile devices - when you don't have Javascript 
- * Developer Tool in the handset, this util will print out the log messages on the screen.
+ * This JS logger utility helps managing/customizing the print out mechanism of the log messages, the main 
+ * reason I have developed this logger to enable debugging Javascrip on mobile devices - when you don't have 
+ * Javascript Developer Tool in the handset, this logger will print out the log messages on the screen.
  */
 var Logger = Logger || {};
 

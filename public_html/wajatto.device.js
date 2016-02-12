@@ -4,7 +4,7 @@
  */
 
 /**
- * This JS util helps detecting the current web client mechine - covers most of the target web clients.
+ * This JS utility helps detecting the current web client mechine - covers most of the target web clients.
  */
 var DeviceUtil = {};
 
